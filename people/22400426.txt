@@ -1,0 +1,5 @@
+Leo Wilson
+----------
+- I use EMACS, the superior text editor
+- I overuse ternary operators, the best conditional
+- https://leomwilson.com/
